@@ -1,0 +1,9 @@
+MY ENGLISH COACH WITH CHLÉO — PROTOTYPE GRATUIT
+
+1. Décompressez le ZIP sur Windows.
+2. Pour un aperçu rapide, ouvrez index.html dans Chrome ou Edge. La reconnaissance vocale peut ne pas fonctionner en mode fichier local.
+3. Pour installer l'application sur Windows et Android, hébergez les fichiers sur un site HTTPS gratuit (par exemple GitHub Pages). Ouvrez ensuite cette URL dans Chrome ou Edge, puis choisissez « Installer l'application » ou « Ajouter à l'écran d'accueil ».
+4. Autorisez le micro. La reconnaissance vocale dépend du navigateur et peut nécessiter une connexion internet ; elle peut ne pas être disponible partout.
+5. La voix de Chléo utilise la synthèse vocale de votre appareil ; la voix exacte dépend des voix installées.
+6. La progression est enregistrée localement sur chaque appareil. Elle ne se synchronise pas entre Windows et Android.
+7. Il s'agit d'un prototype avec dialogues prédéfinis et animation légère du portrait, sans synchronisation labiale ni IA conversationnelle connectée.
